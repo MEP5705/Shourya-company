@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+}
+
+a:hover {
+    color: blue;
+}
+
+h1 {
+    font-size: 45px;
+}
+
+h2 {
+    font-size: 300px;
+}
+
+p1 {
+    font-size: 100px;
+}
+
+.navbar {
+    background-color: Black;
+    font-size: 50px;
+}
+
+.navbar a {
+    padding: 20px 25px;
+    overflow: hidden;
+}
+
+.header {
+    background-color: aquamarine;
+}
+
+.footer {
+    background-color: rgba(165, 42, 42, 0.7);
+    font-size: 20px;
+}

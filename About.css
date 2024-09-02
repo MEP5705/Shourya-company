@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+}
+
+p1 {
+    font-size: 25px;
+}
+
+.header {
+    background-color: aquamarine;
+}
+
+.navbar {
+    Background-color: Black;
+    overflow: hidden;
+    text-align: center;
+}
+
+.navbar a {
+    padding: 20px 25px;
+    font-size: 50px;
+}
+
+.content {
+    background-color: rgba(30, 144, 250, 0.8);
+}
+
+.content img {
+    height: 500px;
+    width: 500px;
+}
+
+.footer {
+    background-color: rgba(165, 42, 42, 0.7);
+    font-size: 20px;
+}

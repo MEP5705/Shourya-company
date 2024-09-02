@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+}
+
+p1 {
+    font-size: 25px;
+}
+
+.navbar {
+    Background-color: Black;
+    overflow: hidden;
+    text-align: center;
+}
+
+.navbar a {
+    padding: 20px 25px;
+    font-size: 50px;
+}
+
+.header {
+    text-align: center;
+    background-color: aquamarine;
+    font-size: 30px;
+}
+
+.content {
+    background-color: rgba(30, 144, 250, 0.8);
+}
+
+.footer {
+    background-color: rgba(165, 42, 42, 0.7);
+    font-size: 20px;
+}
+
+.games {
+    height: 400px;
+    width: 600px;
+    display: inline-block;
+    margin: 20px;
+    border: 2px dashed black;
+    box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.8);
+    border-radius: 80px;
+}
